@@ -1,44 +1,30 @@
 <?php
+require_once('config.php');
+require_once('captcha.php');
 
-// Подключаем файл с настройками базы данных
-require_once 'config.php';
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    // Получаем входные данные от пользователя и очищаем их
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);
+    $message = htmlspecialchars($_POST['message']);
 
-// Проверяем, что была отправлена форма и что все поля заполнены
-if ($_SERVER['REQUEST_METHOD'] == 'POST' && !empty($_POST['name']) && !empty($_POST['comment']) && !empty($_POST['rating']) && !empty($_POST['captcha'])) {
-
-  // Проверяем правильность введенного значения в поле captcha
-  if ($_POST['captcha'] == $_SESSION['captcha']) {
-
-    // Создаем подключение к базе данных
-    $conn = new mysqli($host, $username, $password, $database);
-
-    // Проверяем, удалось ли подключиться к базе данных
-    if ($conn->connect_error) {
-      die("Ошибка подключения к базе данных: " . $conn->connect_error);
+    // Проверяем CAPTCHA
+    $response = verifyCaptcha($_POST['g-recaptcha-response']);
+    if (!$response['success']) {
+        die('Ошибка CAPTCHA: ' . $response['error-codes']);
     }
 
-    // Защищаем данные, полученные из формы, от SQL-инъекций
-    $name = $conn->real_escape_string($_POST['name']);
-    $comment = $conn->real_escape_string($_POST['comment']);
-    $rating = $conn->real_escape_string($_POST['rating']);
-    $photo = $conn->real_escape_string($_FILES['photo']['name']);
+    // Подключаемся к базе данных
+    $pdo = new PDO('mysql:host=localhost;dbname='.$db_name, $db_user, $db_pass);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-    // Создаем SQL-запрос для добавления комментария в базу данных
-    $sql = "INSERT INTO comments (name, comment, rating, photo) VALUES ('$name', '$comment', '$rating', '$photo')";
+    // Подготавливаем запрос с параметрами
+    $stmt = $pdo->prepare("INSERT INTO comments (name, email, message) VALUES (:name, :email, :message)");
+    $stmt->bindParam(':name', $name);
+    $stmt->bindParam(':email', $email);
+    $stmt->bindParam(':message', $message);
 
     // Выполняем запрос
-    if ($conn->query($sql) === TRUE) {
-      // Выводим сообщение об успешном добавлении комментария
-      echo "Комментарий успешно добавлен!";
-    } else {
-      // Выводим сообщение об ошибке при добавлении комментария
-      echo "Ошибка: " . $sql . "<br>" . $conn->error;
-    }
-
-    // Закрываем соединение с базой данных
-    $conn->close();
-
-  } else {
-    echo "Введенный код с картинки неверный";
-  }
+    $stmt->execute();
 }
+?>
