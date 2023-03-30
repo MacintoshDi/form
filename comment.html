@@ -1,36 +1,22 @@
-<div id="comment-edit" style="display: block;">
-
-
-<form id="comment_form" method="post" action="https://www.okraska-sten.ru/comment/addcomment" class="comment-form new-item" novalidate="novalidate">
-                        
-<input type="hidden" name="objectId" value="398775" id="objectId">
-        
-                    
-<input type="hidden" name="type" value="3" id="type">
-                            
-<input type="hidden" name="parentId" value="" id="parentId">
-        
-        
-<input type="hidden" name="commentId" value="" id="commentId">
-        <dl><dd class="comment-form__header"><div class="-inline-group row"><div class="small-12 medium-7 large-12 inline-column"><input class="small-12 comment-form__field comment-form__field_name -relative" type="text" name="name" id="name" value="" placeholder="Представьтесь" maxlength="40" data-charcounter="no"></div></div></dd><dd class="-relative"><textarea class="small-12 comment-form__field comment-form__field_text" name="commenttext" id="commenttext" placeholder="Комментарий" rows="5" maxlength="3000" data-charcounter="no" cols="80"></textarea></dd></dl><div class="-inline-group_top js-comment-images comment-form__images comment-form-images"><script type="text/html" class="js-comment-image-tpl" style="display:none"><div class='comment-form-image js-comment-image'><div class="js-comment-image__delete comment-image__delete -icon-font-basket"></div></div></script><div class="large-7 comment-form-images__uploaded-images-block"><div class="js-comment-images__list comment-form-images__list"></div></div><div class="small-5 text-right comment-form-images__block"><label class="js-comment-images__upload -inline-group inline-block comment-form-images__upload fileapi" data-upload-url="https://www.okraska-sten.ru/putimgsecure?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODAyMTI4NjAsInFzaCI6ImQ2YWQwY2Q3NjZmY2JmYTA0ODZjMzFjNDgzM2RmNTA4NDdhMzc4ZDNkMmMwZjE1YmFmODM4NmFhYjIzNTgyOTAifQ.D2DXgy2EMX3E05M8fGtXjXKVuaxA3FgE4njpWb_o93A" data-file-upload="https://www.okraska-sten.ru/storage/upload/comment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxc2giOiI2Y2RkZDcwMGIzOTU3MDgwNzQ0ZDQ2ZWM5YTc5YzM2MTFmMjQ4ZjAwZWJlMWRiYTNhMDRiMWEyNjJjZjNhNDY2In0.Z42BWHIdOBtQSe0E4BijL7PO13NHy1I2lt8OcUbIowE" style=""><!--?xml version="1.0" encoding="utf-8"?--><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M128 32h512q39.75 0 67.875 28.125t28.125 67.875v512q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-512q0-39.75 28.125-67.875t67.875-28.125zM672 557.25l-160-160-274.75 274.75h402.75q13.25 0 22.625-9.375t9.375-22.625v-82.75zM640 96h-512q-13.25 0-22.625 9.375t-9.375 22.625v512q0 13.25 9.375 22.625t22.625 9.375h18.75l365.25-365.25 160 160v-338.75q0-13.25-9.375-22.625t-22.625-9.375zM256 160q39.75 0 67.875 28.125t28.125 67.875-28.125 67.875-67.875 28.125-67.875-28.125-28.125-67.875 28.125-67.875 67.875-28.125zM256 224q-13.25 0-22.625 9.375t-9.375 22.625 9.375 22.625 22.625 9.375 22.625-9.375 9.375-22.625-9.375-22.625-22.625-9.375z"></path></svg><div class="comment-form-images__block_text">Прикрепить изображение</div><input name="files" type="file" multiple=""></label></div></div>        <div class="row">
-                            <div class="medium-12 large-7 column">
-                    <div id="captcha-element" class="captcha captcha__block">
-                                                                        <div class="small-12 medium-7 column captcha__image_block">
-                            <div id="captcha-img" class="captcha captcha__image row">
-                                <img width="163" height="43" class="inline-block small-10 column" src="data:image/png;base64,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" alt="">
-                                <div id="reload" class="inline-block captcha__reload small-2 column">
-                                    <div></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="captcha-input inline-block captcha captcha captcha__submit-field small-12 medium-5 column">
-                            <div class="-relative">
-                                <input id="captcha-id" class="captcha" type="hidden" size="20" value="6b361bde2abea6920ee78202079b4e98" name="captcha[id]">
-                                <input type="text" size="20" placeholder="Введите символы с картинки" value="" id="captcha-input" name="captcha[input]">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                        <div class="comment-form__bottom-buttons-block -inline-group text-right  large-5  column"><div class="comment-form__bottom-button-box_cancel"><button class="small-12 cancel btn-site-cancel button button_for_comment-form-cancel" type="reset">Отмена</button></div><div class="comment-form__bottom-button-box_submit"><button class="small-12 btn-site save btn-site-complete  button button_for_comment-form-submit" type="submit">Отправить</button></div></div>        </div>
-    </form>
+<div class="callManager">
+<div class="callManager_step_one">
+<div class="callManager_header">Закажите бесплатную консультацию</div>
+<form name="callManager" method="POST" class="tg-form callManager_form" id="free_consultation" autocomplete="off" enctype="multipart/form-data">
+<div class="tg-form__request"></div> <label>
+Ваше имя:<span>*</span>
+<input type="text" name="Имя" class="cookie_fio" value="" id="nameManager" maxlength="40" required="">
+</label> <label>
+Телефон:<span>*</span>
+<input type="text" name="Телефон" id="phoneManager" class="cookie_phone" placeholder="+3(___) ___-____" value="" required="">
+</label> <input type="hidden" name="theme" value="консультация">
+<div class="policy">
+<span>Нажимая на кнопку, я принимаю <a target="_blank">условия пользовательского соглашения</a> и даю согласие на обработку моих персональных данных.</span>
 </div>
+<div><input type="submit" value="Отправить" class="callManager__btn"><span class="callManager_error" id="btn_free_consultation">Необходимо заполнить все поля формы!</span></div>
+</form>
+</div>
+<div class="callManager_step_two">
+<div class="have-questions_senk_header">Ваше сообщение успешно отправлено!</div>
+<div class="have-questions_senk_content">Наши менеджеры обработают Ваше письмо и свяжутся с Вами в самое ближайшее время.</div>
+</div>
+</div> <a class="yellow_button" href="https://patriotstroy.com.ua/malyarnie-raboti/">цены Малярные работы</a> </div>
