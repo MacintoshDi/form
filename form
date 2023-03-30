@@ -1,4 +1,5 @@
-<div class="small-12 medium-12 large-8 column medium-centered comments-widget__list comments">
+<div class="widget__inner row">
+                <div class="small-12 medium-12 large-8 column medium-centered comments-widget__list comments">
                     <div class="add-btn-container text-center" id="comment-show">
                         <div class="add-btn button comments__add-comment-btn button_for_comments-add-comment small-9 medium-4">
                             Оставить отзыв
@@ -159,3 +160,4 @@
                                                     </div>
                     </div>
                 </div>
+        </div>
