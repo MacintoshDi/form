@@ -1,15 +1,12 @@
-<div class="content-block widget__content -nt-widget widget__content_filled">
-        <div class="row -relative">
-                    </div>
-        <div class="widget__inner row">
-                <div class="small-12 medium-12 large-8 column medium-centered comments-widget__list comments">
-                    <div class="add-btn-container text-center" id="comment-show">
+<div class="add-btn-container text-center" id="comment-show">
                         <div class="add-btn button comments__add-comment-btn button_for_comments-add-comment small-9 medium-4">
                             Оставить отзыв
                         </div>
                     </div>
-                    <div id="comment-edit"></div>
-                    <div class="content-block comments__content" id="comment-show">
+                    
+<div id="comment-edit"></div>
+
+<div class="content-block comments__content" id="comment-show">
                         <div id="comment_wrap" class="site">
                             <div class="all-comments widget-comments">
                                                                             <article class="comment_wrap comment-item__content">
@@ -162,6 +159,7 @@
                                 </div>
                                                     </div>
                     </div>
-                </div>
-        </div>
-    </div>
+                    
+<div class="next_comments text-center">
+                                    <span class="button button_for_comments-show-comments small-12 medium-5">К предыдущим записям</span>
+                                </div>
