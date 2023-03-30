@@ -7,17 +7,23 @@ function sendForm(event) {
   event.preventDefault();
 
   // Проверяем введенные данные
-  const name = document.getElementById('name').value;
-  const comment = document.getElementById('comment').value;
+  const name = document.getElementById('name').value.trim();
+  const comment = document.getElementById('comment').value.trim();
   const rating = document.getElementById('rating').value;
-  const captcha = document.getElementById('captcha').value;
-  const csrfToken = document.getElementById('csrf_token').value;
+  const captcha = document.getElementById('captcha').value.trim();
+  const csrfToken = document.getElementById('csrf_token').value.trim();
 
-  const captchaImage = document.getElementById('captcha');
-captchaImage.onload = function() {
-  // Дополнительные настройки для отображения капчи
-};
-captchaImage.src = 'captcha.php?' + Date.now();
+  // Проверяем заполнение обязательных полей
+  if (!name || !comment || !captcha) {
+    alert('Не заполнены обязательные поля!');
+    return;
+  }
+
+  const captchaImage = document.getElementById('captcha-img');
+  captchaImage.onload = function() {
+    // Дополнительные настройки для отображения капчи
+  };
+  captchaImage.src = 'captcha.php?' + Date.now();
 
   // Отправляем данные на сервер
   const xhr = new XMLHttpRequest();
@@ -29,4 +35,5 @@ captchaImage.src = 'captcha.php?' + Date.now();
       updateCommentList();
     }
   };
+  xhr.send(`name=${name}&comment=${comment}&rating=${rating}&captcha=${captcha}&csrf_token=${csrfToken}`);
 }
