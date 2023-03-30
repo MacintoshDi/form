@@ -1,1037 +1,167 @@
-<!DOCTYPE html>
-<html lang="ru-RU">
-    <head>
-        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <title>Отзывы о компании Окраска-Мастер в Москве</title>
-        <meta name="description" content="Предлагаем ознакомиться с отзывами о работе нашей компании на различных объектах в Москве и области. Мы дорожим своей репутацией и гарантируем качество работ.">
-        <meta name="keywords" content="покраска стен отзывы">
-        <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
-        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-        <link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin>
-        <style type="text/css">
-            :root {
-                --fallback-font-header: "";
-                --fallback-font-paragraph: ""
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/sTdaA6j0Psb920Vjv-mrzH-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
-                unicode-range: U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/uYECMKoHcO9x1wdmbyHIm3-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
-                unicode-range: U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/Ks_cVxiCiwUWVsFWFA3Bjn-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
-                unicode-range: U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
-                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 500;
-                font-display: fallback;
-                src: local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/ZLqKeelYbATG60EpZBSDy4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 500;
-                font-display: fallback;
-                src: local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/oHi30kwQWvpCWqAhzHcCSIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 500;
-                font-display: fallback;
-                src: local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 500;
-                font-display: fallback;
-                src: local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUZBw1xU1rKptJj_0jans920.woff2) format('woff2');
-                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/77FXFjRbGzN4aCrSFhlh3oX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/isZ-wbCXNKAbnjo6_TwHToX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/97uahxiqZRoncBaCEI3aW4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-                unicode-range: U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: normal;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2) format('woff2');
-                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/WxrXJa0C3KdtC7lMafG4dRkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');
-                unicode-range: U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/OpXUqTo0UgQQhGj_SFdLWBkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');
-                unicode-range: U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/vSzulfKSK0LLjjfeaxcREhkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');
-                unicode-range: U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 400;
-                font-display: fallback;
-                src: local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/vPcynSL0qHq_6dX7lKVByXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');
-                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC_ZraR2Tg8w2lzm7kLNL0-w.woff2) format('woff2');
-                unicode-range: U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC14sYYdJg5dU2qzJEVSuta0.woff2) format('woff2');
-                unicode-range: U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC6E8kM4xWR1_1bYURRojRGc.woff2) format('woff2');
-                unicode-range: U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
-            }
-
-            @font-face {
-                font-family: Roboto;
-                font-style: italic;
-                font-weight: 700;
-                font-display: fallback;
-                src: local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC4gp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
-                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
-            }
-        </style>
-        <link href="//s.siteapi.org/frontend/static/grid_9/css/themes/white/styles-c26cb4efdc.css" media="screen" rel="stylesheet" type="text/css"/>
-    </head>
-    <body id="top-body" class="site  " data-page-type="" data-html-version="8450396804356098204101" data-grid="9" data-ng-controller="BlocksController as blockCtrl" data-ng-init="moduleId = 9" data-lang="ru_RU" style="background: none;">
-        <div class="show-for-large"></div>
-        <div class="site__layout">
-            <div class="layout">
-                <div class="layout__row layout__row_full-height">
-                    <div id="container" class="site-container">
-                        <div class="site-background" style="background-color: #DBEEF3; background-image: none; "></div>
-                        <div class="js-header-constraint site-header-constraint"></div>
-                        <header class="site-header js-sticky__header small-12">
-                            <div class="site-header__content -relative">
-                                <div class="row site-header__top-contacts show-for-medium">
-                                    <div class="small-12 column">
-                                        <section id="topcontacts" data-block-id="3" data-ng-init="init(3)" data-ng-controller="TopContactsController" class="block-3 widget widget-block -nt-widget top-contacts" data-ng-class="{'on-view': !blocks[3].isEdit, 'edit-item': blocks[3].editItem}">
-                                            <div data-ng-show="!blocks[3].isEdit" class="content-block" id="topcontacts-show">
-                                                <div class="top-contacts -inline-group js-top-contacts top-contacts_flex">
-                                                    <div class="-inline-group top-contacts__phones">
-                                                        <div class="top-contacts__phones-list show-for-medium js-top-contacts__phones">
-                                                            <div class="desktop -inline-group">
-                                                                <div class="top-contacts__icon top-contacts__icon_phone js-top-contacts__phone top-contacts__icon_phone_display">
-                                                                    <?xml
-                                                                    version="1.0" encoding="utf-8"?>
-                                                                    <!-- Generated by IcoMoon.io -->
-                                                                    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-                                                                        <g id="icomoon-ignore"></g>
-                                                                        <path d="M352 320c-32 32-32 64-64 64s-64-32-96-64-64-64-64-96 32-32 64-64-64-128-96-128-96 96-96 96c0 64 65.75 193.75 128 256s192 128 256 128c0 0 96-64 96-96s-96-128-128-96z"></path>
-                                                                    </svg>
-                                                                </div>
-                                                                <a class="top-contacts__phones-item phone-number js-phone-number__7999916-8689" href="tel:+7999916-8689">+7 999 916-8689
-                        </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="top-contacts__forms">
-                                                        <div class="row -inline-group text-right">
-                                                            <div class="feedback inline-column top-contacts__form">
-                                                                <a target="_blank" rel="nofollow" href="https://t.me/Okraska_Sten" class="top-contacts__link feedback-btn -inline-group">
-                                                                    <div class="top-contacts__icon top-contacts__icon_form">
-                                                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                                                            <defs/>
-                                                                            <path d="M28.926 6.985l-3.924 18.503c-.296 1.306-1.068 1.631-2.165 1.016L16.86 22.1l-2.885 2.774c-.32.32-.586.586-1.201.586l.43-6.088L24.283 9.36c.482-.429-.105-.668-.749-.238L9.836 17.747 3.94 15.9c-1.282-.4-1.306-1.283.268-1.899l23.065-8.886c1.068-.4 2.002.238 1.654 1.87v-.001z"/>
-                                                                        </svg>
-                                                                    </div>
-                                                                    <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Telegram</span>
-                                                                </a>
-                                                            </div>
-                                                            <div class="mobile top-contacts__phones-item phone-number notranslate">
-                                                                <a class="js-phone-number__7999916-8689" href="tel:+7999916-8689">
-                                                                    <div class="top-contacts__icon top-contacts__icon_phone js-top-contacts__phone">
-                                                                        <?xml
-                                                                        version="1.0" encoding="utf-8"?>
-                                                                        <!-- Generated by IcoMoon.io -->
-                                                                        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-                                                                            <g id="icomoon-ignore"></g>
-                                                                            <path d="M352 320c-32 32-32 64-64 64s-64-32-96-64-64-64-64-96 32-32 64-64-64-128-96-128-96 96-96 96c0 64 65.75 193.75 128 256s192 128 256 128c0 0 96-64 96-96s-96-128-128-96z"></path>
-                                                                        </svg>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                            <div class="feedback inline-column top-contacts__form">
-                                                                <a href="#feedback" class="top-contacts__link feedback-btn -inline-group" data-type="0">
-                                                                    <div class="top-contacts__icon top-contacts__icon_form">
-                                                                        <?xml
-                                                                        version="1.0" encoding="utf-8"?>
-                                                                        <!-- Generated by IcoMoon.io -->
-                                                                        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                                            <g id="icomoon-ignore"></g>
-                                                                            <path d="M128 96h512q39.75 0 67.875 28.125t28.125 67.875v384q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-384q0-39.75 28.125-67.875t67.875-28.125zM672 576v-349.5l-268 214.5q-8.5 7-20 7t-20-7l-268-214.5v349.5q0 13.25 9.375 22.625t22.625 9.375h512q13.25 0 22.625-9.375t9.375-22.625zM640 160h-512q-4.75 0-10.5 1.75l266.5 213.25 266.5-213.25q-5.75-1.75-10.5-1.75z"></path>
-                                                                        </svg>
-                                                                    </div>
-                                                                    <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Оставить заявку</span>
-                                                                </a>
-                                                            </div>
-                                                            <div class="feedback inline-column top-contacts__form">
-                                                                <a href="#callback" class="top-contacts__link feedback-btn -inline-group" data-type="1">
-                                                                    <div class="top-contacts__icon top-contacts__icon_form">
-                                                                        <svg id="callback_icon" width="50" height="50" data-name="callback icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 15">
-                                                                            <title>callback_icon</title>
-                                                                            <path d="M17.88,1.5a10.32,10.32,0,0,0-1-1A1.45,1.45,0,0,0,16,0a2,2,0,0,0-1,.48,7.38,7.38,0,0,0-1.22,1.14A5.06,5.06,0,0,0,12.91,3,0.89,0.89,0,0,0,13,4a4.35,4.35,0,0,0,1.38,1A1,1,0,0,1,15,6a2.35,2.35,0,0,1-.62,1.5Q13.75,8.25,13,9t-1.5,1.38A2.35,2.35,0,0,1,10,11a1,1,0,0,1-1-.63A4.35,4.35,0,0,0,8,9a0.89,0.89,0,0,0-1-.09,5.06,5.06,0,0,0-1.33.84A7.37,7.37,0,0,0,4.48,11,2,2,0,0,0,4,12a1.45,1.45,0,0,0,.47.89,10.36,10.36,0,0,0,1,1Q6.06,14.34,7,15a6,6,0,0,0,1.82-.35,16.1,16.1,0,0,0,2.2-.92,19.94,19.94,0,0,0,2.19-1.28A12,12,0,0,0,15,11a12.05,12.05,0,0,0,1.45-1.79A20,20,0,0,0,17.73,7a16,16,0,0,0,.92-2.2A6,6,0,0,0,19,3Q18.34,2.06,17.88,1.5ZM6,6L9,3,6,0V2H1V4H6V6Z" transform="translate(-1)"/>
-                                                                        </svg>
-                                                                    </div>
-                                                                    <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Заказать звонок</span>
-                                                                </a>
-                                                            </div>
-                                                            <div class="feedback inline-column top-contacts__form top-contacts_scroll-up">
-                                                                <div class="top-contacts__icon js-scroll-up hide-for-medium">
-                                                                    <?xml
-                                                                    version="1.0" encoding="utf-8"?>
-                                                                    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                                        <path d="M384 256.5l192 192-45 45-147-147-147 147-45-45z"></path>
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                    </div>
-                                </div>
-                                <div class="site-header__bottom-section js-combo-box" combo-box="menu">
-                                    <div class="row -inline-group site-header-bottom site-header-bottom--flex">
-                                        <div class="small-9 inline-column large-3 mobile-burger-wrapper">
-                                            <div class="-inline-group">
-                                                <div class="small-2 medium-1 hide-for-large">
-                                                    <button class="site-header__menu-btn svg-icon js-combo-box__button_menu" data-toggle="site-menu">
-                                                        <?xml
-                                                        version="1.0" encoding="utf-8"?>
-                                                        <!-- Generated by IcoMoon.io -->
-                                                        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                            <g id="icomoon-ignore"></g>
-                                                            <path d="M96 192h576v64.5h-576v-64.5zM96 415.5v-63h576v63h-576zM96 576v-64.5h576v64.5h-576z"></path>
-                                                        </svg>
-                                                    </button>
-                                                </div>
-                                                <div class="small-10 medium-8 large-12">
-                                                    <section id="company-logo" class="block-1 widget-block widget-logo">
-                                                        <div id="site-logo" class="widget-logo__image">
-                                                            <link rel="image_src" href="//i.siteapi.org/cXz7-D_CeqynbTi1U2tnfy6hXhg=/0x0:3550x841/fit-in/215x0/s.siteapi.org/bcdd21e3699156f.ru/logo/4i46ucvy80sg0c8gw4scsoccos0o4k"/>
-                                                            <a href="https://www.okraska-sten.ru/">
-                                                                <picture>
-                                                                    <source srcset="//i.siteapi.org/ryaBPi4erEwgtESMuKSixRcPWKE=/0x0:3550x841/fit-in/430x0/filters:format(webp)/s.siteapi.org/bcdd21e3699156f.ru/logo/4i46ucvy80sg0c8gw4scsoccos0o4k" type="image/webp"/>
-                                                                    <img src="//i.siteapi.org/E3PL4B7xiPYhCk2bG8bn7bTw6NM=/0x0:3550x841/fit-in/430x0/s.siteapi.org/bcdd21e3699156f.ru/logo/4i46ucvy80sg0c8gw4scsoccos0o4k" alt="" style="max-width: 215px"/>
-                                                                </picture>
-                                                            </a>
-                                                        </div>
-                                                    </section>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="menu-cart-wrapper small-3 large-9 -inline-group_top mobile-cart-wrapper">
-                                            <div class="js-combo-box__content_menu inline-column combo-box__content combo-box__content_invert large-12 inline-column">
-                                                <div class="combo-box__header">
-                                                    <div class="combo-box__title">Меню</div>
-                                                    <div class="combo-box__close js-combo-box__close_menu svg-icon_smallx svg-icon">
-                                                        <?xml
-                                                        version="1.0" encoding="utf-8"?>
-                                                        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                            <path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path>
-                                                        </svg>
-                                                    </div>
-                                                </div>
-                                                <nav id="main-menu" class="site-menu">
-                                                    <div>
-                                                        <ul class="no-bullet site-menu__list clearfix">
-                                                            <li id="lnk-1" data-sort="0" class=" disable-sort site-menu__item" data-label="Главная">
-                                                                <a href="https://www.okraska-sten.ru/">Главная
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-2" data-sort="1" class=" site-menu__item" data-label="Услуги">
-                                                                <a href="https://www.okraska-sten.ru/services">Услуги
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-3" data-sort="2" class=" site-menu__item" data-label="Цены на 2023 год">
-                                                                <a href="/pokraska-sten-potolka-cena-za-m2-raboty">Цены на 2023 год
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-4" data-sort="3" class=" site-menu__item" data-label="50+ АЛЬБОМОВ РАБОТ">
-                                                                <a href="https://www.okraska-sten.ru/photoalbums">50+ АЛЬБОМОВ РАБОТ
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-5" data-sort="4" class=" active site-menu__item" data-loc=&quot;comment&quot; data-label="150+ отзывов">
-                                                                <a href="https://www.okraska-sten.ru/comment">150+ отзывов
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-6" data-sort="5" class=" site-menu__item" data-label="4 Видеоотзыва">
-                                                                <a href="https://www.okraska-sten.ru/video">4 Видеоотзыва
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-7" data-sort="6" class=" site-menu__item" data-label="О компании">
-                                                                <a href="/o-kompanii">О компании
-                            </a>
-                                                            </li>
-                                                            <li id="lnk-8" data-sort="7" class=" site-menu__item" data-label="КОНТАКТЫ">
-                                                                <a href="https://www.okraska-sten.ru/contacts">КОНТАКТЫ
-                            </a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </nav>
-                                            </div>
-                                            <div class="cabinet__wrapper"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div></div>
-                        </header>
-                        <div class="row site-header__top-contacts hide-for-medium small-12">
-                            <div class="small-12 column">
-                                <section id="topcontacts" data-block-id="3" data-ng-init="init(3)" data-ng-controller="TopContactsController" class="block-3 widget widget-block -nt-widget top-contacts" data-ng-class="{'on-view': !blocks[3].isEdit, 'edit-item': blocks[3].editItem}">
-                                    <div data-ng-show="!blocks[3].isEdit" class="content-block" id="topcontacts-show">
-                                        <div class="top-contacts -inline-group js-top-contacts top-contacts_flex">
-                                            <div class="-inline-group top-contacts__phones">
-                                                <div class="top-contacts__phones-list show-for-medium js-top-contacts__phones">
-                                                    <div class="desktop -inline-group">
-                                                        <div class="top-contacts__icon top-contacts__icon_phone js-top-contacts__phone top-contacts__icon_phone_display">
-                                                            <?xml
-                                                            version="1.0" encoding="utf-8"?>
-                                                            <!-- Generated by IcoMoon.io -->
-                                                            <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-                                                                <g id="icomoon-ignore"></g>
-                                                                <path d="M352 320c-32 32-32 64-64 64s-64-32-96-64-64-64-64-96 32-32 64-64-64-128-96-128-96 96-96 96c0 64 65.75 193.75 128 256s192 128 256 128c0 0 96-64 96-96s-96-128-128-96z"></path>
-                                                            </svg>
-                                                        </div>
-                                                        <a class="top-contacts__phones-item phone-number js-phone-number__7999916-8689" href="tel:+7999916-8689">+7 999 916-8689
-                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="top-contacts__forms">
-                                                <div class="row -inline-group text-right">
-                                                    <div class="feedback inline-column top-contacts__form">
-                                                        <a target="_blank" rel="nofollow" href="https://t.me/Okraska_Sten" class="top-contacts__link feedback-btn -inline-group">
-                                                            <div class="top-contacts__icon top-contacts__icon_form">
-                                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                                                    <defs/>
-                                                                    <path d="M28.926 6.985l-3.924 18.503c-.296 1.306-1.068 1.631-2.165 1.016L16.86 22.1l-2.885 2.774c-.32.32-.586.586-1.201.586l.43-6.088L24.283 9.36c.482-.429-.105-.668-.749-.238L9.836 17.747 3.94 15.9c-1.282-.4-1.306-1.283.268-1.899l23.065-8.886c1.068-.4 2.002.238 1.654 1.87v-.001z"/>
-                                                                </svg>
-                                                            </div>
-                                                            <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Telegram</span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="mobile top-contacts__phones-item phone-number notranslate">
-                                                        <a class="js-phone-number__7999916-8689" href="tel:+7999916-8689">
-                                                            <div class="top-contacts__icon top-contacts__icon_phone js-top-contacts__phone">
-                                                                <?xml
-                                                                version="1.0" encoding="utf-8"?>
-                                                                <!-- Generated by IcoMoon.io -->
-                                                                <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-                                                                    <g id="icomoon-ignore"></g>
-                                                                    <path d="M352 320c-32 32-32 64-64 64s-64-32-96-64-64-64-64-96 32-32 64-64-64-128-96-128-96 96-96 96c0 64 65.75 193.75 128 256s192 128 256 128c0 0 96-64 96-96s-96-128-128-96z"></path>
-                                                                </svg>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="feedback inline-column top-contacts__form">
-                                                        <a href="#feedback" class="top-contacts__link feedback-btn -inline-group" data-type="0">
-                                                            <div class="top-contacts__icon top-contacts__icon_form">
-                                                                <?xml
-                                                                version="1.0" encoding="utf-8"?>
-                                                                <!-- Generated by IcoMoon.io -->
-                                                                <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                                    <g id="icomoon-ignore"></g>
-                                                                    <path d="M128 96h512q39.75 0 67.875 28.125t28.125 67.875v384q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-384q0-39.75 28.125-67.875t67.875-28.125zM672 576v-349.5l-268 214.5q-8.5 7-20 7t-20-7l-268-214.5v349.5q0 13.25 9.375 22.625t22.625 9.375h512q13.25 0 22.625-9.375t9.375-22.625zM640 160h-512q-4.75 0-10.5 1.75l266.5 213.25 266.5-213.25q-5.75-1.75-10.5-1.75z"></path>
-                                                                </svg>
-                                                            </div>
-                                                            <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Оставить заявку</span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="feedback inline-column top-contacts__form">
-                                                        <a href="#callback" class="top-contacts__link feedback-btn -inline-group" data-type="1">
-                                                            <div class="top-contacts__icon top-contacts__icon_form">
-                                                                <svg id="callback_icon" width="50" height="50" data-name="callback icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 15">
-                                                                    <title>callback_icon</title>
-                                                                    <path d="M17.88,1.5a10.32,10.32,0,0,0-1-1A1.45,1.45,0,0,0,16,0a2,2,0,0,0-1,.48,7.38,7.38,0,0,0-1.22,1.14A5.06,5.06,0,0,0,12.91,3,0.89,0.89,0,0,0,13,4a4.35,4.35,0,0,0,1.38,1A1,1,0,0,1,15,6a2.35,2.35,0,0,1-.62,1.5Q13.75,8.25,13,9t-1.5,1.38A2.35,2.35,0,0,1,10,11a1,1,0,0,1-1-.63A4.35,4.35,0,0,0,8,9a0.89,0.89,0,0,0-1-.09,5.06,5.06,0,0,0-1.33.84A7.37,7.37,0,0,0,4.48,11,2,2,0,0,0,4,12a1.45,1.45,0,0,0,.47.89,10.36,10.36,0,0,0,1,1Q6.06,14.34,7,15a6,6,0,0,0,1.82-.35,16.1,16.1,0,0,0,2.2-.92,19.94,19.94,0,0,0,2.19-1.28A12,12,0,0,0,15,11a12.05,12.05,0,0,0,1.45-1.79A20,20,0,0,0,17.73,7a16,16,0,0,0,.92-2.2A6,6,0,0,0,19,3Q18.34,2.06,17.88,1.5ZM6,6L9,3,6,0V2H1V4H6V6Z" transform="translate(-1)"/>
-                                                                </svg>
-                                                            </div>
-                                                            <span class="show-for-medium top-contacts__form-text top-contacts__form-text_display">Заказать звонок</span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="feedback inline-column top-contacts__form top-contacts_scroll-up">
-                                                        <div class="top-contacts__icon js-scroll-up hide-for-medium">
-                                                            <?xml
-                                                            version="1.0" encoding="utf-8"?>
-                                                            <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-                                                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
-                                                                <path d="M384 256.5l192 192-45 45-147-147-147 147-45-45z"></path>
-                                                            </svg>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
-                        <div id="content-anchor" class="site-content small-12">
-                            <section id="content" class="module" data-ng-controller="ContentController">
-                                <div class="module__content">
-                                    <section id="comment" data-block-id="15" class=" comments-widget overt widget on-view widget-block">
-                                        <header class="comments-widget__header widget__header widget__header_underlined row text-center">
-                                            <div class="-inline-group_top">
-                                                <h1>150+ отзывов</h1>
-                                            </div>
-                                        </header>
-                                        <div class="content-block widget__content -nt-widget widget__content_filled">
-                                            <div class="row -relative"></div>
-                                            <div class="widget__inner row">
-                                                <div class="small-12 medium-12 large-8 column medium-centered comments-widget__list comments">
-                                                    <div class="add-btn-container text-center" id="comment-show">
-                                                        <div class="add-btn button comments__add-comment-btn button_for_comments-add-comment small-9 medium-4">Оставить отзыв
-                        </div>
-                                                    </div>
-                                                    <div id="comment-edit"></div>
-                                                    <div class="content-block comments__content" id="comment-show">
-                                                        <div id="comment_wrap" class="site">
-                                                            <div class="all-comments widget-comments">
-                                                                <article class="comment_wrap comment-item__content">
-                                                                    <div id="item-1946616" class="comment-item item ">
-                                                                        <div class="comment-item__avatar-block">
-                                                                            <div class="comment-item__avatar">
-                                                                                <div class="comment-item-avatar comment-item-avatar_default">
-                                                                                    <?xml
-                                                                                    version="1.0" encoding="utf-8"?>
-                                                                                    <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-                                                                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve">
-                                                                                        <g id="icomoon-ignore"></g>
-                                                                                        <path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"/>
-                                                                                    </svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="comment-header comment-item__header hide-for-large">
-                                                                            <span class="name inline-block comment-item__author">Оксана
-                                </span>
-                                                                            <time class="infoDigits inline-block comment-item__time" datetime="2023-03-21">21 марта 2023, 12:01
-            </time>
-                                                                            <div class="clearfix"></div>
-                                                                        </div>
-                                                                        <div class="comment-item__text">
-                                                                            <div class="comment-header comment-item__header show-for-large">
-                                                                                <span class="name inline-block comment-item__author">Оксана
-                                </span>
-                                                                                <time class="infoDigits inline-block comment-item__time" datetime="2023-03-21">21 марта 2023, 12:01
-                </time>
-                                                                            </div>
-                                                                            <div class="text comment-item__content_text">Хочу выразить Огромную благодарность команде из Окраска мастер за высокое качество выполненных работ. Я не знаю когда они отдыхают, но предварительно договаривалась о работах в час ночи. За помощь в выборе и приобретению материалов. Мастеров за пунктуальность и аккуратность. И отдельное за нарисованную красоту
-            </div>
-                                                                            <div class="comment-item__images js-comment-images -inline-group_top">
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/PmBeP8NhgQ562zEmznrRPXrPi04=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="1" data-total="5" data-view="//i.siteapi.org/GzS0xGwqxnr3mf_OkSzzj2iessU=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" data-filesize="60.7 кб" data-raw="//i.siteapi.org/PmBeP8NhgQ562zEmznrRPXrPi04=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230321_120051_821.jpg" src="//i.siteapi.org/9d9IEsoSoz04quS0_LHg1pcwdxM=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" alt="IMG_20230321_120051_821.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/zhnzmBi-avif99pWFYQGM4XCw7Y=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="2" data-total="5" data-view="//i.siteapi.org/3Ybc_VAMzzYkp4g8OzQ4VF_PxPI=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" data-filesize="164.9 кб" data-raw="//i.siteapi.org/zhnzmBi-avif99pWFYQGM4XCw7Y=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230321_120051_660.jpg" src="//i.siteapi.org/urP9_JLo7XzF37s3MjQZmrL_DfQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" alt="IMG_20230321_120051_660.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/cZhAvvBRFiAipIuY7v6tvoaPxO8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="3" data-total="5" data-view="//i.siteapi.org/kGc3ZULP0xta09gW3buKO3S61ko=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" data-filesize="68.6 кб" data-raw="//i.siteapi.org/cZhAvvBRFiAipIuY7v6tvoaPxO8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230321_120051_488.jpg" src="//i.siteapi.org/w_Wr490HQWL6FquZLSqZSculIsQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" alt="IMG_20230321_120051_488.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/yvDNoCyHYQ-wiDvyudJaNofyz3U=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="4" data-total="5" data-view="//i.siteapi.org/U0lUBeJ0FqGxnahqE_T8hb2uILg=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" data-filesize="111.7 кб" data-raw="//i.siteapi.org/yvDNoCyHYQ-wiDvyudJaNofyz3U=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230321_120052_082.jpg" src="//i.siteapi.org/f39NqfmiMR__JKlbM6GpHdHCQaI=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" alt="IMG_20230321_120052_082.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/0iIpA9jxAiL9srUhBdR-Q5PLe_8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="5" data-total="5" data-view="//i.siteapi.org/dKMak-tz08hDjDlUzCltgWyCFWQ=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" data-filesize="194.8 кб" data-raw="//i.siteapi.org/0iIpA9jxAiL9srUhBdR-Q5PLe_8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230321_120052_051.jpg" src="//i.siteapi.org/6ZBfS5gmNURliCxgErpLURwr9pE=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" alt="IMG_20230321_120052_051.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                            <script type="text/html" class="js-imageAttachmentView-tpl">
-                                                                                <article id="view-photo-edit-window"
-        class="modal-window
-                window
-                js-photo-window
-                gallery-picture-modal
-                row
-                modal
-                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
-                                modal__header_photo"><div class="row"><div class="small-12
-                                    column"><h3 class="modal__head-text
-                                        modal__head-text_bold
-                                        modal__photo-head-text">
-                                Фотография <span class="mfp-current"></span> из
-                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
-                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
-                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article>
-                                                                            </script>
-                                                                            <a class="answer-btn inline-block comment-item__link">комментировать</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </article>
-                                                                <article class="comment_wrap comment-item__content">
-                                                                    <div id="item-1933439" class="comment-item item ">
-                                                                        <div class="comment-item__avatar-block">
-                                                                            <div class="comment-item__avatar">
-                                                                                <div class="comment-item-avatar comment-item-avatar_default">
-                                                                                    <?xml
-                                                                                    version="1.0" encoding="utf-8"?>
-                                                                                    <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-                                                                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve">
-                                                                                        <g id="icomoon-ignore"></g>
-                                                                                        <path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"/>
-                                                                                    </svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="comment-header comment-item__header hide-for-large">
-                                                                            <span class="name inline-block comment-item__author">Мартин
-                                </span>
-                                                                            <time class="infoDigits inline-block comment-item__time" datetime="2023-02-26">26 февраля 2023, 20:33
-            </time>
-                                                                            <div class="clearfix"></div>
-                                                                        </div>
-                                                                        <div class="comment-item__text">
-                                                                            <div class="comment-header comment-item__header show-for-large">
-                                                                                <span class="name inline-block comment-item__author">Мартин
-                                </span>
-                                                                                <time class="infoDigits inline-block comment-item__time" datetime="2023-02-26">26 февраля 2023, 20:33
-                </time>
-                                                                            </div>
-                                                                            <div class="text comment-item__content_text">
-                                                                                Спасибо большое за сегодняшнюю работу компании Окраска мастер! <br/>
-                                                                                Очень остался доволен. Больше всего боялся, что будут следы на потолке и кантике натяжного потолка, но все покрашено самым аккуратным образом! Буду советовать соседям и друзьям <br/>
-                                                                                <br/>
-                                                                                Цвета если кому интересно <br/>
-                                                                                10 YY 56/060 <br/>30 YY 78/035
-            
-                                                                            </div>
-                                                                            <div class="comment-item__images js-comment-images -inline-group_top">
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/kk2AG5_dX0iHZr-wJu-YsJW0UNw=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" class="js-comment-image-link" target="_blank" rel="comment-1933439" data-current="1" data-total="2" data-view="//i.siteapi.org/iqsVbgjaItA0r7p3VtG9Fi8vc3A=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" data-filesize="94.7 кб" data-raw="//i.siteapi.org/kk2AG5_dX0iHZr-wJu-YsJW0UNw=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230226_203306_792.jpg" src="//i.siteapi.org/wkYDpfurJrOWqRbyY8JCtoTSjdA=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" alt="IMG_20230226_203306_792.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/UXyTKRgx0ZvsroVVaJJglCg5tvc=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" class="js-comment-image-link" target="_blank" rel="comment-1933439" data-current="2" data-total="2" data-view="//i.siteapi.org/2wZRz7L0u4f_eYoRpaV59E2UjHE=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" data-filesize="70.4 кб" data-raw="//i.siteapi.org/UXyTKRgx0ZvsroVVaJJglCg5tvc=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230226_203306_982.jpg" src="//i.siteapi.org/2rsjkYmHXdsX5iD8mi2xCxeTwpg=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" alt="IMG_20230226_203306_982.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                            <script type="text/html" class="js-imageAttachmentView-tpl">
-                                                                                <article id="view-photo-edit-window"
-        class="modal-window
-                window
-                js-photo-window
-                gallery-picture-modal
-                row
-                modal
-                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
-                                modal__header_photo"><div class="row"><div class="small-12
-                                    column"><h3 class="modal__head-text
-                                        modal__head-text_bold
-                                        modal__photo-head-text">
-                                Фотография <span class="mfp-current"></span> из
-                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
-                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
-                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article>
-                                                                            </script>
-                                                                            <a class="answer-btn inline-block comment-item__link">комментировать</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </article>
-                                                                <article class="comment_wrap comment-item__content">
-                                                                    <div id="item-1922255" class="comment-item item ">
-                                                                        <div class="comment-item__avatar-block">
-                                                                            <div class="comment-item__avatar">
-                                                                                <div class="comment-item-avatar comment-item-avatar_default">
-                                                                                    <?xml
-                                                                                    version="1.0" encoding="utf-8"?>
-                                                                                    <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-                                                                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve">
-                                                                                        <g id="icomoon-ignore"></g>
-                                                                                        <path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"/>
-                                                                                    </svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="comment-header comment-item__header hide-for-large">
-                                                                            <span class="name inline-block comment-item__author">Андрей
-                                </span>
-                                                                            <time class="infoDigits inline-block comment-item__time" datetime="2023-02-07">7 февраля 2023, 11:53
-            </time>
-                                                                            <div class="clearfix"></div>
-                                                                        </div>
-                                                                        <div class="comment-item__text">
-                                                                            <div class="comment-header comment-item__header show-for-large">
-                                                                                <span class="name inline-block comment-item__author">Андрей
-                                </span>
-                                                                                <time class="infoDigits inline-block comment-item__time" datetime="2023-02-07">7 февраля 2023, 11:53
-                </time>
-                                                                            </div>
-                                                                            <div class="text comment-item__content_text">Большое спасибо за проделанную работу и клиентоориентированность!!! Помогли подобрать цвет, заказали необходимый материал, приезд мастеров в точное оговоренное время без лишних звонков и прекрасно выполненная работа!!!
-            </div>
-                                                                            <div class="comment-item__images js-comment-images -inline-group_top">
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/NYRJfyqYVrh7QgNno2XaSqAbEjo=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="1" data-total="4" data-view="//i.siteapi.org/KPM6WQy-ESLQWf-NnuWMtazZrkc=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" data-filesize="131.5 кб" data-raw="//i.siteapi.org/NYRJfyqYVrh7QgNno2XaSqAbEjo=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="photo_2022-12-02_14-44-41.jpg" src="//i.siteapi.org/6FVaGXX0BzlYBRtn6QAq45A5OU0=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" alt="photo_2022-12-02_14-44-41.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/hUZoNR8IGDXMwt49-GP0KWQ_Ess=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="2" data-total="4" data-view="//i.siteapi.org/Mm6hEopkt0xPZxizSKGMRNr0KQg=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" data-filesize="30.1 кб" data-raw="//i.siteapi.org/hUZoNR8IGDXMwt49-GP0KWQ_Ess=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="photo_2022-12-04_15-27-19.jpg" src="//i.siteapi.org/OqvXg29j5SNaTHtycJ-lBEd9zLo=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" alt="photo_2022-12-04_15-27-19.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/bpzg7FW3qKrZS2TLL8VcjBKYtrY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="3" data-total="4" data-view="//i.siteapi.org/KitDj5SoncXEbo2ssqtHiAJiXKU=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" data-filesize="71.3 кб" data-raw="//i.siteapi.org/bpzg7FW3qKrZS2TLL8VcjBKYtrY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="photo_2022-12-04_15-27-20.jpg" src="//i.siteapi.org/9gdmnaFj8jqCRtGY-rW38RtWsMc=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" alt="photo_2022-12-04_15-27-20.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/92iSFHQfhybJNM4CGhRYjsBrBJQ=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="4" data-total="4" data-view="//i.siteapi.org/j91jHSgY9ZsAtZG8D4zEAdbRIZQ=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" data-filesize="78.7 кб" data-raw="//i.siteapi.org/92iSFHQfhybJNM4CGhRYjsBrBJQ=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="photo_2022-12-04_15-27-21.jpg" src="//i.siteapi.org/scoj1HddAJ_DYgiqQ8aark2-aGY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" alt="photo_2022-12-04_15-27-21.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                            <script type="text/html" class="js-imageAttachmentView-tpl">
-                                                                                <article id="view-photo-edit-window"
-        class="modal-window
-                window
-                js-photo-window
-                gallery-picture-modal
-                row
-                modal
-                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
-                                modal__header_photo"><div class="row"><div class="small-12
-                                    column"><h3 class="modal__head-text
-                                        modal__head-text_bold
-                                        modal__photo-head-text">
-                                Фотография <span class="mfp-current"></span> из
-                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
-                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
-                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article>
-                                                                            </script>
-                                                                            <a class="answer-btn inline-block comment-item__link">комментировать</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </article>
-                                                                <article class="comment_wrap comment-item__content">
-                                                                    <div id="item-1919457" class="comment-item item ">
-                                                                        <div class="comment-item__avatar-block">
-                                                                            <div class="comment-item__avatar">
-                                                                                <div class="comment-item-avatar comment-item-avatar_default">
-                                                                                    <?xml
-                                                                                    version="1.0" encoding="utf-8"?>
-                                                                                    <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-                                                                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve">
-                                                                                        <g id="icomoon-ignore"></g>
-                                                                                        <path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"/>
-                                                                                    </svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="comment-header comment-item__header hide-for-large">
-                                                                            <span class="name inline-block comment-item__author">тест
-                                </span>
-                                                                            <time class="infoDigits inline-block comment-item__time" datetime="2023-02-02">2 февраля 2023, 12:14
-            </time>
-                                                                            <div class="clearfix"></div>
-                                                                        </div>
-                                                                        <div class="comment-item__text">
-                                                                            <div class="comment-header comment-item__header show-for-large">
-                                                                                <span class="name inline-block comment-item__author">тест
-                                </span>
-                                                                                <time class="infoDigits inline-block comment-item__time" datetime="2023-02-02">2 февраля 2023, 12:14
-                </time>
-                                                                            </div>
-                                                                            <div class="text comment-item__content_text">авм
-            </div>
-                                                                            <a class="answer-btn inline-block comment-item__link">комментировать</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </article>
-                                                                <article class="comment_wrap comment-item__content">
-                                                                    <div id="item-1919256" class="comment-item item ">
-                                                                        <div class="comment-item__avatar-block">
-                                                                            <div class="comment-item__avatar">
-                                                                                <div class="comment-item-avatar comment-item-avatar_default">
-                                                                                    <?xml
-                                                                                    version="1.0" encoding="utf-8"?>
-                                                                                    <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-                                                                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve">
-                                                                                        <g id="icomoon-ignore"></g>
-                                                                                        <path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"/>
-                                                                                    </svg>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="comment-header comment-item__header hide-for-large">
-                                                                            <span class="name inline-block comment-item__author">Полина
-                                </span>
-                                                                            <time class="infoDigits inline-block comment-item__time" datetime="2023-02-01">1 февраля 2023, 23:22
-            </time>
-                                                                            <div class="clearfix"></div>
-                                                                        </div>
-                                                                        <div class="comment-item__text">
-                                                                            <div class="comment-header comment-item__header show-for-large">
-                                                                                <span class="name inline-block comment-item__author">Полина
-                                </span>
-                                                                                <time class="infoDigits inline-block comment-item__time" datetime="2023-02-01">1 февраля 2023, 23:22
-                </time>
-                                                                            </div>
-                                                                            <div class="text comment-item__content_text">Хочу поблагодарить коллектив Окраска Мастер за исполнение своей мечты и быструю продуктивную работу. Огромнейший выбор палитры цветов подарил возможность увидеть свою квартиру как мне и хотелось! Удобная быстрая доставка материалов. Работа выполнена в максимально короткий срок. Сергей и Инна в первый день покрасили квартиру. Работали слаженно и чисто. На второй день Анастасия и Елена нарисовали мне прекрасный рисунок "Лес". Они исполнили мою мечту! Ничего не нужно выносить, убирать и отмывать после покраски стен, всё чисто и красиво! Спасибо огромное за Вашу работу!
-            </div>
-                                                                            <div class="comment-item__images js-comment-images -inline-group_top">
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/C7Zu9dQ4ZSp2h1vxv5s8fuEbUeY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="1" data-total="5" data-view="//i.siteapi.org/fHjUymx-hNIq7rO4lApyYXEfVMM=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" data-filesize="58.8 кб" data-raw="//i.siteapi.org/C7Zu9dQ4ZSp2h1vxv5s8fuEbUeY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230201_232143_206.jpg" src="//i.siteapi.org/T5WgREMw0b_z0MH6TK9nblU-lAk=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" alt="IMG_20230201_232143_206.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/-WJRD_QKrvLW8igZ-_7bPYcDtaY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="2" data-total="5" data-view="//i.siteapi.org/hg8-tuZPGjW35S55OFOrWPUXTQc=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" data-filesize="85.2 кб" data-raw="//i.siteapi.org/-WJRD_QKrvLW8igZ-_7bPYcDtaY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230201_232142_909.jpg" src="//i.siteapi.org/pAbY5mEiCt110sRwYQwjf83x8CQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" alt="IMG_20230201_232142_909.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/QMJV1PmZoGljyU9owrsBXBYBgyU=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="3" data-total="5" data-view="//i.siteapi.org/iAXE-htuDW1XW2B2E2vdh3gg0Sk=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" data-filesize="75.1 кб" data-raw="//i.siteapi.org/QMJV1PmZoGljyU9owrsBXBYBgyU=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230201_232142_290.jpg" src="//i.siteapi.org/CL8eZegA5-BiZiikPZV5WpxhqCY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" alt="IMG_20230201_232142_290.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/nQhG494VhVaGm3MmoBHDK1Yp_Ww=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="4" data-total="5" data-view="//i.siteapi.org/0iokoA45PzqP0iS9saSKjVhPqUw=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" data-filesize="82.6 кб" data-raw="//i.siteapi.org/nQhG494VhVaGm3MmoBHDK1Yp_Ww=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230201_232142_330.jpg" src="//i.siteapi.org/rtVYIPoE0pEedI1KJsVR910uWdg=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" alt="IMG_20230201_232142_330.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="small-4 medium-2 comment-item__images-item">
-                                                                                    <a href="//i.siteapi.org/Ul9uP7wBhmWVmfgmNAGY6wYS8W4=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="5" data-total="5" data-view="//i.siteapi.org/GlIrPv2LE7pa1aH20BP7wfyn9xY=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" data-filesize="92.3 кб" data-raw="//i.siteapi.org/Ul9uP7wBhmWVmfgmNAGY6wYS8W4=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8">
-                                                                                        <div class="comment-image">
-                                                                                            <img title="IMG_20230201_232143_166.jpg" src="//i.siteapi.org/IIYtLXz5s1VWnNwuZ8xesaG5afY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" alt="IMG_20230201_232143_166.jpg">
-                                                                                        </div>
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                            <script type="text/html" class="js-imageAttachmentView-tpl">
-                                                                                <article id="view-photo-edit-window"
-        class="modal-window
-                window
-                js-photo-window
-                gallery-picture-modal
-                row
-                modal
-                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
-                                modal__header_photo"><div class="row"><div class="small-12
-                                    column"><h3 class="modal__head-text
-                                        modal__head-text_bold
-                                        modal__photo-head-text">
-                                Фотография <span class="mfp-current"></span> из
-                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
-                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
-                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article>
-                                                                            </script>
-                                                                            <a class="answer-btn inline-block comment-item__link">комментировать</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </article>
-                                                            </div>
-                                                            <div class="next_comments text-center">
-                                                                <span class="button button_for_comments-show-comments small-12 medium-5">К предыдущим записям</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </section>
+<div class="content-block widget__content -nt-widget widget__content_filled">
+        <div class="row -relative">
+                    </div>
+        <div class="widget__inner row">
+                <div class="small-12 medium-12 large-8 column medium-centered comments-widget__list comments">
+                    <div class="add-btn-container text-center" id="comment-show">
+                        <div class="add-btn button comments__add-comment-btn button_for_comments-add-comment small-9 medium-4">
+                            Оставить отзыв
                         </div>
                     </div>
-                </div>
-                <div class="layout__row">
-                    <footer id="footer" class="site-footer">
-                        <div class="row">
-                            <section class="small-12 column">
-                                <div class="-inline-group">
-                                    <div class="small-12 large-8 text-center medium-text-left">
-                                        <div id="footer-text" class="footer-text client">
-                                            <div id="footertext1" class="footer-text__about">Малярно-отделочные работы: поклейка обоев, лепной декор, покраска, штукатурка и шпаклевка стен.
-                            </div>
-                                            <div id="footertext2" class="footer-text__desc">© 2005-2023 г. Все права защищены. Копирование контента с сайта запрещено и преследуется законом!</div>
-                                        </div>
-                                    </div>
-                                    <div class="small-12 medium-12 large-4 site-footer_indent">
-                                        <div class="text-center large-text-right site-footer__logo">
-                                            <div class="inline-block">
-                                                <div id="project-info" class="project-info">
-                                                    <a class="footer-logo-link" target="_blank" href="https://www.okraska-sten.ru/">
-                                                        <div class="-text-right text-center large-text-right footer-logo-text inline-block footer-color">
-                                                            &quot;Покрасим, нарисуем и цвет подберём.<br/>&quot;Окраска-Мастер&quot;первые во всём&quot;❣️
-            
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                    <div id="comment-edit"></div>
+                    <div class="content-block comments__content" id="comment-show">
+                        <div id="comment_wrap" class="site">
+                            <div class="all-comments widget-comments">
+                                                                            <article class="comment_wrap comment-item__content">
+    
+<div id="item-1946616" class="comment-item item ">
+    <div class="comment-item__avatar-block"><div class="comment-item__avatar"><div class="comment-item-avatar comment-item-avatar_default"><!--?xml version="1.0" encoding="utf-8"?--><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve"><g id="icomoon-ignore"></g><path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"></path></svg></div></div></div><div class="comment-header comment-item__header hide-for-large"><span class="name inline-block comment-item__author">
+                                    Оксана
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-03-21">
+                                21 марта 2023, 12:01
+            </time><div class="clearfix"></div></div><div class="comment-item__text"><div class="comment-header comment-item__header show-for-large"><span class="name inline-block comment-item__author">
+                                    Оксана
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-03-21">
+                                        21 марта 2023, 12:01
+                </time></div><div class="text comment-item__content_text">
+                Хочу выразить Огромную благодарность команде из Окраска мастер за высокое качество выполненных работ. Я не знаю когда они отдыхают, но предварительно договаривалась о работах в час ночи. За помощь в выборе и приобретению материалов. Мастеров за пунктуальность и аккуратность. И отдельное за нарисованную красоту
+            </div><div class="comment-item__images js-comment-images -inline-group_top"><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/PmBeP8NhgQ562zEmznrRPXrPi04=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="1" data-total="5" data-view="//i.siteapi.org/GzS0xGwqxnr3mf_OkSzzj2iessU=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" data-filesize="60.7 кб" data-raw="//i.siteapi.org/PmBeP8NhgQ562zEmznrRPXrPi04=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk"><div class="comment-image"><img title="IMG_20230321_120051_821.jpg" src="//i.siteapi.org/9d9IEsoSoz04quS0_LHg1pcwdxM=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/gu79lyeelo8w8occwss88cssskccgk" alt="IMG_20230321_120051_821.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/zhnzmBi-avif99pWFYQGM4XCw7Y=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="2" data-total="5" data-view="//i.siteapi.org/3Ybc_VAMzzYkp4g8OzQ4VF_PxPI=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" data-filesize="164.9 кб" data-raw="//i.siteapi.org/zhnzmBi-avif99pWFYQGM4XCw7Y=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s"><div class="comment-image"><img title="IMG_20230321_120051_660.jpg" src="//i.siteapi.org/urP9_JLo7XzF37s3MjQZmrL_DfQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/a0kh827q2j48ocssos00okg0k8044s" alt="IMG_20230321_120051_660.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/cZhAvvBRFiAipIuY7v6tvoaPxO8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="3" data-total="5" data-view="//i.siteapi.org/kGc3ZULP0xta09gW3buKO3S61ko=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" data-filesize="68.6 кб" data-raw="//i.siteapi.org/cZhAvvBRFiAipIuY7v6tvoaPxO8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos"><div class="comment-image"><img title="IMG_20230321_120051_488.jpg" src="//i.siteapi.org/w_Wr490HQWL6FquZLSqZSculIsQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/babkat1acfswk4ow4ss4cw404kwsos" alt="IMG_20230321_120051_488.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/yvDNoCyHYQ-wiDvyudJaNofyz3U=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="4" data-total="5" data-view="//i.siteapi.org/U0lUBeJ0FqGxnahqE_T8hb2uILg=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" data-filesize="111.7 кб" data-raw="//i.siteapi.org/yvDNoCyHYQ-wiDvyudJaNofyz3U=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4"><div class="comment-image"><img title="IMG_20230321_120052_082.jpg" src="//i.siteapi.org/f39NqfmiMR__JKlbM6GpHdHCQaI=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/2mg0d4thth8g8k4cc04o80cgwg0kc4" alt="IMG_20230321_120052_082.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/0iIpA9jxAiL9srUhBdR-Q5PLe_8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" class="js-comment-image-link" target="_blank" rel="comment-1946616" data-current="5" data-total="5" data-view="//i.siteapi.org/dKMak-tz08hDjDlUzCltgWyCFWQ=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" data-filesize="194.8 кб" data-raw="//i.siteapi.org/0iIpA9jxAiL9srUhBdR-Q5PLe_8=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8"><div class="comment-image"><img title="IMG_20230321_120052_051.jpg" src="//i.siteapi.org/6ZBfS5gmNURliCxgErpLURwr9pE=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/9gqkn9azdvk0s08ks4gs4c08sgk4s8" alt="IMG_20230321_120052_051.jpg"></div></a></div></div><script type="text/javascript" async="" src="//code.jivosite.com/script/widget/wIasyigkW0"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/html" class="js-imageAttachmentView-tpl"><article id="view-photo-edit-window"
+        class="modal-window
+                window
+                js-photo-window
+                gallery-picture-modal
+                row
+                modal
+                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
+                                modal__header_photo"><div class="row"><div class="small-12
+                                    column"><h3 class="modal__head-text
+                                        modal__head-text_bold
+                                        modal__photo-head-text">
+                                Фотография <span class="mfp-current"></span> из
+                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
+                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
+                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article></script><a class="answer-btn inline-block comment-item__link">комментировать</a></div></div>
+
+            </article>
+                    <article class="comment_wrap comment-item__content">
+    
+<div id="item-1933439" class="comment-item item ">
+    <div class="comment-item__avatar-block"><div class="comment-item__avatar"><div class="comment-item-avatar comment-item-avatar_default"><!--?xml version="1.0" encoding="utf-8"?--><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve"><g id="icomoon-ignore"></g><path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"></path></svg></div></div></div><div class="comment-header comment-item__header hide-for-large"><span class="name inline-block comment-item__author">
+                                    Мартин
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-26">
+                                26 февраля 2023, 20:33
+            </time><div class="clearfix"></div></div><div class="comment-item__text"><div class="comment-header comment-item__header show-for-large"><span class="name inline-block comment-item__author">
+                                    Мартин
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-26">
+                                        26 февраля 2023, 20:33
+                </time></div><div class="text comment-item__content_text">
+                Спасибо большое за сегодняшнюю работу компании Окраска мастер! <br>
+Очень остался доволен. Больше всего боялся, что будут следы на потолке и кантике натяжного потолка, но все покрашено самым аккуратным образом! Буду советовать соседям и друзьям <br><br>
+Цвета если кому интересно <br>
+10 YY 56/060 <br>
+30 YY 78/035
+            </div><div class="comment-item__images js-comment-images -inline-group_top"><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/kk2AG5_dX0iHZr-wJu-YsJW0UNw=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" class="js-comment-image-link" target="_blank" rel="comment-1933439" data-current="1" data-total="2" data-view="//i.siteapi.org/iqsVbgjaItA0r7p3VtG9Fi8vc3A=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" data-filesize="94.7 кб" data-raw="//i.siteapi.org/kk2AG5_dX0iHZr-wJu-YsJW0UNw=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8"><div class="comment-image"><img title="IMG_20230226_203306_792.jpg" src="//i.siteapi.org/wkYDpfurJrOWqRbyY8JCtoTSjdA=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/kwz1wo09ts00s8gkwkg4kgowgswcc8" alt="IMG_20230226_203306_792.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/UXyTKRgx0ZvsroVVaJJglCg5tvc=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" class="js-comment-image-link" target="_blank" rel="comment-1933439" data-current="2" data-total="2" data-view="//i.siteapi.org/2wZRz7L0u4f_eYoRpaV59E2UjHE=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" data-filesize="70.4 кб" data-raw="//i.siteapi.org/UXyTKRgx0ZvsroVVaJJglCg5tvc=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4"><div class="comment-image"><img title="IMG_20230226_203306_982.jpg" src="//i.siteapi.org/2rsjkYmHXdsX5iD8mi2xCxeTwpg=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/7b3ayk85b8cg0ww8wc404s0ssgsks4" alt="IMG_20230226_203306_982.jpg"></div></a></div></div><script type="text/html" class="js-imageAttachmentView-tpl"><article id="view-photo-edit-window"
+        class="modal-window
+                window
+                js-photo-window
+                gallery-picture-modal
+                row
+                modal
+                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
+                                modal__header_photo"><div class="row"><div class="small-12
+                                    column"><h3 class="modal__head-text
+                                        modal__head-text_bold
+                                        modal__photo-head-text">
+                                Фотография <span class="mfp-current"></span> из
+                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
+                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
+                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article></script><a class="answer-btn inline-block comment-item__link">комментировать</a></div></div>
+
+            </article>
+                    <article class="comment_wrap comment-item__content">
+    
+<div id="item-1922255" class="comment-item item ">
+    <div class="comment-item__avatar-block"><div class="comment-item__avatar"><div class="comment-item-avatar comment-item-avatar_default"><!--?xml version="1.0" encoding="utf-8"?--><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve"><g id="icomoon-ignore"></g><path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"></path></svg></div></div></div><div class="comment-header comment-item__header hide-for-large"><span class="name inline-block comment-item__author">
+                                    Андрей
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-07">
+                                7 февраля 2023, 11:53
+            </time><div class="clearfix"></div></div><div class="comment-item__text"><div class="comment-header comment-item__header show-for-large"><span class="name inline-block comment-item__author">
+                                    Андрей
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-07">
+                                        7 февраля 2023, 11:53
+                </time></div><div class="text comment-item__content_text">
+                Большое спасибо за проделанную работу и клиентоориентированность!!! Помогли подобрать цвет, заказали необходимый материал, приезд мастеров в точное оговоренное время без лишних звонков и прекрасно выполненная работа!!!
+            </div><div class="comment-item__images js-comment-images -inline-group_top"><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/NYRJfyqYVrh7QgNno2XaSqAbEjo=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="1" data-total="4" data-view="//i.siteapi.org/KPM6WQy-ESLQWf-NnuWMtazZrkc=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" data-filesize="131.5 кб" data-raw="//i.siteapi.org/NYRJfyqYVrh7QgNno2XaSqAbEjo=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co"><div class="comment-image"><img title="photo_2022-12-02_14-44-41.jpg" src="//i.siteapi.org/6FVaGXX0BzlYBRtn6QAq45A5OU0=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rnvlz99y5og44kgc8gck8wks0o84co" alt="photo_2022-12-02_14-44-41.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/hUZoNR8IGDXMwt49-GP0KWQ_Ess=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="2" data-total="4" data-view="//i.siteapi.org/Mm6hEopkt0xPZxizSKGMRNr0KQg=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" data-filesize="30.1 кб" data-raw="//i.siteapi.org/hUZoNR8IGDXMwt49-GP0KWQ_Ess=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw"><div class="comment-image"><img title="photo_2022-12-04_15-27-19.jpg" src="//i.siteapi.org/OqvXg29j5SNaTHtycJ-lBEd9zLo=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/167jue6rgf6okocoo4g8oc8gskg4cw" alt="photo_2022-12-04_15-27-19.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/bpzg7FW3qKrZS2TLL8VcjBKYtrY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="3" data-total="4" data-view="//i.siteapi.org/KitDj5SoncXEbo2ssqtHiAJiXKU=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" data-filesize="71.3 кб" data-raw="//i.siteapi.org/bpzg7FW3qKrZS2TLL8VcjBKYtrY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g"><div class="comment-image"><img title="photo_2022-12-04_15-27-20.jpg" src="//i.siteapi.org/9gdmnaFj8jqCRtGY-rW38RtWsMc=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/i62jbe74k288g44kwwk8w00cw8os0g" alt="photo_2022-12-04_15-27-20.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/92iSFHQfhybJNM4CGhRYjsBrBJQ=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" class="js-comment-image-link" target="_blank" rel="comment-1922255" data-current="4" data-total="4" data-view="//i.siteapi.org/j91jHSgY9ZsAtZG8D4zEAdbRIZQ=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" data-filesize="78.7 кб" data-raw="//i.siteapi.org/92iSFHQfhybJNM4CGhRYjsBrBJQ=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4"><div class="comment-image"><img title="photo_2022-12-04_15-27-21.jpg" src="//i.siteapi.org/scoj1HddAJ_DYgiqQ8aark2-aGY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/rkd4by4j2tws4ggg0kscg4wgw0cck4" alt="photo_2022-12-04_15-27-21.jpg"></div></a></div></div><script type="text/html" class="js-imageAttachmentView-tpl"><article id="view-photo-edit-window"
+        class="modal-window
+                window
+                js-photo-window
+                gallery-picture-modal
+                row
+                modal
+                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
+                                modal__header_photo"><div class="row"><div class="small-12
+                                    column"><h3 class="modal__head-text
+                                        modal__head-text_bold
+                                        modal__photo-head-text">
+                                Фотография <span class="mfp-current"></span> из
+                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
+                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
+                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article></script><a class="answer-btn inline-block comment-item__link">комментировать</a></div></div>
+
+            </article>
+                    <article class="comment_wrap comment-item__content">
+    
+<div id="item-1919457" class="comment-item item ">
+    <div class="comment-item__avatar-block"><div class="comment-item__avatar"><div class="comment-item-avatar comment-item-avatar_default"><!--?xml version="1.0" encoding="utf-8"?--><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve"><g id="icomoon-ignore"></g><path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"></path></svg></div></div></div><div class="comment-header comment-item__header hide-for-large"><span class="name inline-block comment-item__author">
+                                    тест
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-02">
+                                2 февраля 2023, 12:14
+            </time><div class="clearfix"></div></div><div class="comment-item__text"><div class="comment-header comment-item__header show-for-large"><span class="name inline-block comment-item__author">
+                                    тест
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-02">
+                                        2 февраля 2023, 12:14
+                </time></div><div class="text comment-item__content_text">
+                авм
+            </div><a class="answer-btn inline-block comment-item__link">комментировать</a></div></div>
+
+            </article>
+                    <article class="comment_wrap comment-item__content">
+    
+<div id="item-1919256" class="comment-item item ">
+    <div class="comment-item__avatar-block"><div class="comment-item__avatar"><div class="comment-item-avatar comment-item-avatar_default"><!--?xml version="1.0" encoding="utf-8"?--><!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="768px" viewBox="78 13 768 768" enable-background="new 78 13 768 768" xml:space="preserve"><g id="icomoon-ignore"></g><path d="M462,13c34.8,0,67,8.6,96.4,25.8s52.7,40.5,69.9,69.9S654,170.2,654,205v96c0,26.7-5.2,51.9-15.5,75.8s-24.8,44.6-43.2,62.2c48.7,7.7,91.9,19,129.8,33.9s67.5,32.5,88.9,52.9c21.4,20.3,32.1,41.8,32.1,64.2v63c0,26.5-9.4,49.1-28.1,67.9S776.5,749,750,749H174c-26.5,0-49.1-9.4-67.9-28.1S78,679.5,78,653v-63.2c0-22.5,10.7-43.9,32.1-64.2c21.4-20.3,51-38,88.8-52.9s81-26.1,129.6-33.6c-18.3-17.8-32.7-38.6-43-62.4S270,327.7,270,301v-96c0-34.8,8.6-67,25.8-96.4s40.5-52.7,69.9-69.9S427.2,13,462,13z M462,493c-46.3,0-91,3.7-134.1,11.1s-80.6,17.8-112.6,31.1c-12.8,5.3-24.3,11-34.4,17s-17.8,11.4-23,16.2s-9.2,9-11.9,12.6s-4,6.5-4,8.6V653c0,8.8,3.1,16.4,9.4,22.6s13.8,9.4,22.6,9.4h576c8.8,0,16.4-3.1,22.6-9.4s9.4-13.8,9.4-22.6v-63c0-2.2-1.3-5-4-8.6s-6.6-7.8-11.9-12.6s-12.9-10.2-23-16.2s-21.5-11.8-34.4-17.2c-32-13.3-69.5-23.7-112.6-31.1C553,496.7,508.3,493,462,493z M462,77c-35.3,0-65.5,12.5-90.5,37.5S334,169.7,334,205v96c0,35.3,12.5,65.5,37.5,90.5S426.7,429,462,429s65.5-12.5,90.5-37.5S590,336.3,590,301v-96c0-35.3-12.5-65.5-37.5-90.5S497.3,77,462,77z"></path></svg></div></div></div><div class="comment-header comment-item__header hide-for-large"><span class="name inline-block comment-item__author">
+                                    Полина
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-01">
+                                1 февраля 2023, 23:22
+            </time><div class="clearfix"></div></div><div class="comment-item__text"><div class="comment-header comment-item__header show-for-large"><span class="name inline-block comment-item__author">
+                                    Полина
+                                </span><time class="infoDigits inline-block comment-item__time" datetime="2023-02-01">
+                                        1 февраля 2023, 23:22
+                </time></div><div class="text comment-item__content_text">
+                Хочу поблагодарить коллектив Окраска Мастер за исполнение своей мечты и быструю продуктивную работу. Огромнейший выбор палитры цветов подарил возможность увидеть свою квартиру как мне и хотелось! Удобная быстрая доставка материалов. Работа выполнена в максимально короткий срок. Сергей и Инна в первый день покрасили квартиру. Работали слаженно и чисто. На второй день Анастасия и Елена нарисовали мне прекрасный рисунок "Лес". Они исполнили мою мечту! Ничего не нужно выносить, убирать и отмывать после покраски стен, всё чисто и красиво! Спасибо огромное за Вашу работу!
+            </div><div class="comment-item__images js-comment-images -inline-group_top"><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/C7Zu9dQ4ZSp2h1vxv5s8fuEbUeY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="1" data-total="5" data-view="//i.siteapi.org/fHjUymx-hNIq7rO4lApyYXEfVMM=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" data-filesize="58.8 кб" data-raw="//i.siteapi.org/C7Zu9dQ4ZSp2h1vxv5s8fuEbUeY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o"><div class="comment-image"><img title="IMG_20230201_232143_206.jpg" src="//i.siteapi.org/T5WgREMw0b_z0MH6TK9nblU-lAk=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/87x1v40ikiskww8kwcg0ksgwg0cc4o" alt="IMG_20230201_232143_206.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/-WJRD_QKrvLW8igZ-_7bPYcDtaY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="2" data-total="5" data-view="//i.siteapi.org/hg8-tuZPGjW35S55OFOrWPUXTQc=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" data-filesize="85.2 кб" data-raw="//i.siteapi.org/-WJRD_QKrvLW8igZ-_7bPYcDtaY=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w"><div class="comment-image"><img title="IMG_20230201_232142_909.jpg" src="//i.siteapi.org/pAbY5mEiCt110sRwYQwjf83x8CQ=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/sbh1hempz6swkssgo00kg0oo0owc8w" alt="IMG_20230201_232142_909.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/QMJV1PmZoGljyU9owrsBXBYBgyU=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="3" data-total="5" data-view="//i.siteapi.org/iAXE-htuDW1XW2B2E2vdh3gg0Sk=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" data-filesize="75.1 кб" data-raw="//i.siteapi.org/QMJV1PmZoGljyU9owrsBXBYBgyU=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo"><div class="comment-image"><img title="IMG_20230201_232142_290.jpg" src="//i.siteapi.org/CL8eZegA5-BiZiikPZV5WpxhqCY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/62quoz8mgycc0840800sgk80oockgo" alt="IMG_20230201_232142_290.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/nQhG494VhVaGm3MmoBHDK1Yp_Ww=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="4" data-total="5" data-view="//i.siteapi.org/0iokoA45PzqP0iS9saSKjVhPqUw=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" data-filesize="82.6 кб" data-raw="//i.siteapi.org/nQhG494VhVaGm3MmoBHDK1Yp_Ww=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880"><div class="comment-image"><img title="IMG_20230201_232142_330.jpg" src="//i.siteapi.org/rtVYIPoE0pEedI1KJsVR910uWdg=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/5w1scusn338k4ssgoggk48scc08880" alt="IMG_20230201_232142_330.jpg"></div></a></div><div class="small-4 medium-2 comment-item__images-item"><a href="//i.siteapi.org/Ul9uP7wBhmWVmfgmNAGY6wYS8W4=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" class="js-comment-image-link" target="_blank" rel="comment-1919256" data-current="5" data-total="5" data-view="//i.siteapi.org/GlIrPv2LE7pa1aH20BP7wfyn9xY=/fit-in/900x1000/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" data-filesize="92.3 кб" data-raw="//i.siteapi.org/Ul9uP7wBhmWVmfgmNAGY6wYS8W4=/center/top/filters:format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8"><div class="comment-image"><img title="IMG_20230201_232143_166.jpg" src="//i.siteapi.org/IIYtLXz5s1VWnNwuZ8xesaG5afY=/fit-in/90x60/center/top/filters:fill(transparent):format(png)/s.siteapi.org/bcdd21e3699156f.ru/comment/cw6sde3tk9kcwoockkkg4w4g4sc8g8" alt="IMG_20230201_232143_166.jpg"></div></a></div></div><script type="text/html" class="js-imageAttachmentView-tpl"><article id="view-photo-edit-window"
+        class="modal-window
+                window
+                js-photo-window
+                gallery-picture-modal
+                row
+                modal
+                modal_legacy_padding_none"><div class="small-12 column modal__wrap"><div class="modal__body"><header class="modal__header
+                                modal__header_photo"><div class="row"><div class="small-12
+                                    column"><h3 class="modal__head-text
+                                        modal__head-text_bold
+                                        modal__photo-head-text">
+                                Фотография <span class="mfp-current"></span> из
+                                <span class="mfp-total"></span></h3></div></div><button class="modal__button-close
+                                    js-cancel-window"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></button></header><div class="modal__content"><div class="row"><div class="small-12 column"><div id="photo-plate" class="set-sized"><div id="photo-wrapper" class="mfp-img"></div></div></div></div><div class="modal__photo-info modal__photo-info_no_desc"><div class="row"><div class="small-12 medium-offset-9 medium-3 column"><span class="mfp-filesize"></span><div class="-mg-b-10"><a target="_blank"
+                                        class="blue mfp-fullSize">В полном размере</a></div></div></div></div></div></div></div></article></script><a class="answer-btn inline-block comment-item__link">комментировать</a></div></div>
+
+            </article>
+                                                                        </div>
+                                                            <div class="next_comments text-center">
+                                    <span class="button button_for_comments-show-comments small-12 medium-5">К предыдущим записям</span>
                                 </div>
-                                <div class="row column site-footer_indent">
-                                    <div class="small-12 large-6 small-centered site-footer__statcounters">
-                                        <section id="statcounters-left" data-block-id="22" class="block-22 statcounters widget-left widget-block -nt-widget">
-                                            <div id="statcounters-left-show" class="content-block">
-                                                <div class="statcounters-list text-center">
-                                                    <div class="counter statcounters__item">
-                                                        <a href="http://metrika.yandex.ru/stat/?id=36562595&amp;from=informer" target="_blank" rel="nofollow">
-                                                            <img src="//bs.yandex.ru/informer/36562595/1_0_FFFFFFFF_FFFFFFFF_1_pageviews" style="width:40px; height:7px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"/>
-                                                        </a>
                                                     </div>
-                                                    <script type="text/javascript">
-                                                        (function(d, w, c) {
-                                                            (w[c] = w[c] || []).push(function() {
-                                                                try {
-                                                                    w.yaCounter36562595 = new Ya.Metrika({
-                                                                        id: 36562595,
-                                                                        clickmap: true,
-                                                                        trackLinks: true,
-                                                                        accurateTrackBounce: true,
-                                                                        webvisor: true
-                                                                    });
-                                                                } catch (e) {}
-                                                            });
-                                                            var n = d.getElementsByTagName("script")[0]
-                                                              , s = d.createElement("script")
-                                                              , f = function() {
-                                                                n.parentNode.insertBefore(s, n);
-                                                            };
-                                                            s.type = "text/javascript";
-                                                            s.async = true;
-                                                            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-                                                            if (w.opera == "[object Opera]") {
-                                                                d.addEventListener("DOMContentLoaded", f, false);
-                                                            } else {
-                                                                f();
-                                                            }
-                                                        }
-                                                        )(document, window, "yandex_metrika_callbacks");
-                                                    </script>
-                                                    <noscript>
-                                                        <div>
-                                                            <img src="//mc.yandex.ru/watch/36562595" style="position:absolute; left:-9999px;" alt=""/>
-                                                        </div>
-                                                    </noscript>
-                                                </div>
-                                            </div>
-                                        </section>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <!-- BEGIN JIVOSITE CODE {literal} -->
-                        <script type='text/javascript'>
-                            (function() {
-                                var widget_id = 'wIasyigkW0';
-                                var s = document.createElement('script');
-                                s.type = 'text/javascript';
-                                s.async = true;
-                                s.src = '//code.jivosite.com/script/widget/' + widget_id;
-                                var ss = document.getElementsByTagName('script')[0];
-                                ss.parentNode.insertBefore(s, ss);
-                            }
-                            )();
-                        </script>
-                        <!-- {/literal} END JIVOSITE CODE -->
-                    </footer>
+                    </div>
                 </div>
-            </div>
         </div>
-        <div id="for-explain"></div>
-        <input type="hidden" class="-currentFont" value="Roboto">
-        <script src="/js/lang/ru_RU/translate.js?v=8450396804356098204101"></script>
-        <script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_9/js/vendor-43ba3adc30.min.js"></script>
-        <script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_9/js/scripts-2603200054.js"></script>
-        <div id="vk_api_transport"></div>
-        <script>
-            $('document').ready(function() {
-                var notice = `
-            <div class="client-cookies-notice__design client-cookies-notice__design_light">
-                <div class="client-cookies-notice__description">\x3Cp\x3E\u0414\u043B\u044F\x20\u043F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u044F\x20\u0443\u0434\u043E\u0431\u0441\u0442\u0432\u0430\x20\u0441\u0430\u0439\u0442\u0430\x20\u043C\u044B\x20\u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\x20cookies.\x20\u041E\u0441\u0442\u0430\u0432\u0430\u044F\u0441\u044C\x20\u043D\u0430\x20\u0441\u0430\u0439\u0442\u0435,\x20\u0432\u044B\x20\u0441\u043E\u0433\u043B\u0430\u0448\u0430\u0435\u0442\u0435\u0441\u044C\x20\u0441\x20\x3Ca\x20href\x3D\x22\x2F\x22\x3E\u043F\u043E\u043B\u0438\u0442\u0438\u043A\u043E\u0439\x20\u0438\u0445\x20\u043F\u0440\u0438\u043C\u0435\u043D\u0435\u043D\u0438\u044F\x3C\x2Fa\x3E.\x3C\x2Fp\x3E</div>
-                <button id="client-cookies-notice-button" class="client-cookies-notice__button">\u041F\u0440\u0438\u043D\u044F\u0442\u044C</button>
-            </div>    
-        `;
-
-                function getCookie(name) {
-                    var matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
-                    return matches ? decodeURIComponent(matches[1]) : undefined;
-                }
-
-                function setCookie(name, value) {
-                    var date = new Date(Date.now() + 60 * 60 * 24 * 7 * 1000);
-                    date = date.toUTCString();
-                    document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + "; path=/; expires=" + date;
-                }
-
-                if (getCookie("cookie_ok") === undefined) {
-                    var element = document.createElement("div");
-                    element.id = "client-cookies-notice";
-                    element.className = "client-cookies-notice";
-                    element.insertAdjacentHTML("beforeEnd", notice);
-                    document.body.appendChild(element);
-                    $("#client-cookies-notice").addClass("client-cookies-notice_open");
-
-                    $("#client-cookies-notice-button").on("click", function() {
-                        setCookie("cookie_ok", "1");
-                        $("#client-cookies-notice").removeClass("client-cookies-notice_open");
-
-                        setTimeout(function() {
-                            $("#client-cookies-notice").remove();
-                        }, 700);
-                    });
-                }
-            });
-        </script>
-    </body>
-</html>
+    </div>
