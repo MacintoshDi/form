@@ -1,42 +1,45 @@
 <div class="inner_text">
-                        <div class="blockWrite newbox bgblack">
-                          <h1 class="blockWrite_head"><p><span>Комментарии</span><br></p></h1>
-                          <div class="have-questions" id="quest_block">
-                            <div class="callManager">
-                              <div class="callManager_step_one">
-                                <form name="callManager" method="POST" class="tg-form callManager_form" id="free_consultation" action="comment.php" autocomplete="off" enctype="multipart/form-data">
-                                  <div class="tg-form__request"></div>
-                                  <input type="hidden" name="theme" value="консультация">
-                                  <h2>Оставьте комментарий</h2>
-                                  <label for="name">Имя *</label>
-                                  <input type="text" id="name" name="name" required="">
-                                  <label for="comment">Комментарий *</label>
-                                  <textarea id="comment" name="comment" required=""></textarea>
-                                  <label for="photo">Фотография</label>
-                                  <input type="file" id="photo" name="photo">
-                                  <label for="rating">Рейтинг *</label>
-                                  <select id="rating" name="rating" required="">
-                                    <option value="">-- выберите рейтинг --</option>
-                                    <option value="1">1 звезда</option>
-                                    <option value="2">2 звезды</option>
-                                    <option value="3">3 звезды</option>
-                                    <option value="4">4 звезды</option>
-                                    <option value="5">5 звезд</option>
-                                  </select>
-                                  <label for="captcha">Введите цифры или буквы с картинки *</label>
-                                  <input type="text" id="captcha" name="captcha" required="">
-                                  <img id="captcha" src="captcha.php" alt="Captcha">
-                                  <button type="button" id="refresh-captcha">Обновить капчу</button>
-                                  <input type="hidden" id="csrf_token" name="csrf_token" value="<?php echo bin2hex(random_bytes(32)); ?>">
-                                  <button type="submit" id="submit">Отправить</button>
-                                </form>
-                                <h2>Комментарии</h2>
-                                <ul id="comment-list">
-                                  <!-- комментарии будут выводиться здесь -->
-                                </ul>
-                                <button id="load-more">Больше комментариев</button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+  <div class="blockWrite newbox bgblack">
+    <h1 class="blockWrite_head"><p><span>Комментарии</span><br></p></h1>
+    <div class="have-questions" id="quest_block">
+      <div class="callManager">
+        <div class="callManager_step_one">
+          <form name="callManager" method="POST" class="tg-form callManager_form" id="free_consultation" action="comment.php" enctype="multipart/form-data">
+            <input type="hidden" name="theme" value="консультация">
+            <h2>Оставьте комментарий</h2>
+            <label for="name">Имя</label>
+            <input type="text" id="name" name="name">
+            <label for="comment">Комментарий</label>
+            <textarea id="comment" name="comment"></textarea>
+            <label for="photo">Фотография</label>
+            <input type="file" id="photo" name="photo">
+            <label for="rating">Рейтинг</label>
+            <select id="rating" name="rating">
+              <option value="">-- выберите рейтинг --</option>
+              <option value="1">1 звезда</option>
+              <option value="2">2 звезды</option>
+              <option value="3">3 звезды</option>
+              <option value="4">4 звезды</option>
+              <option value="5">5 звезд</option>
+            </select>
+            <label for="captcha">Введите цифры или буквы с картинки</label>
+            <input type="text" id="captcha" name="captcha">
+            <img src="captcha.php" alt="Captcha">
+            <button type="button" id="refresh-captcha">Обновить капчу</button>
+            <input type="hidden" id="csrf_token" name="csrf_token" value="">
+            <button type="submit" id="submit">Отправить</button>
+          </form>
+          <h2>Комментарии</h2>
+          <ul id="comment-list">
+            <!-- комментарии будут выводиться здесь -->
+          </ul>
+          <button id="load-more">Больше комментариев</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
