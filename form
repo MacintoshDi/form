@@ -5,6 +5,42 @@
                     </div>
                     
 <div id="comment-edit"></div>
+<div id="comment-edit">
+
+
+<form id="comment_form" method="post" action="https://www.okraska-sten.ru/comment/addcomment" class="comment-form new-item" novalidate="novalidate">
+                        
+<input type="hidden" name="objectId" value="398775" id="objectId">
+        
+                    
+<input type="hidden" name="type" value="3" id="type">
+                            
+<input type="hidden" name="parentId" value="" id="parentId">
+        
+        
+<input type="hidden" name="commentId" value="" id="commentId">
+        <dl><dd class="comment-form__header"><div class="-inline-group row"><div class="small-12 medium-7 large-12 inline-column"><input class="small-12 comment-form__field comment-form__field_name -relative" type="text" name="name" id="name" value="" placeholder="Представьтесь" maxlength="40" data-charcounter="no"></div></div></dd><dd class="-relative"><textarea class="small-12 comment-form__field comment-form__field_text" name="commenttext" id="commenttext" placeholder="Комментарий" rows="5" maxlength="3000" data-charcounter="no" cols="80"></textarea></dd></dl><div class="-inline-group_top js-comment-images comment-form__images comment-form-images"><script type="text/html" class="js-comment-image-tpl" style="display:none"><div class='comment-form-image js-comment-image'><div class="js-comment-image__delete comment-image__delete -icon-font-basket"></div></div></script><div class="large-7 comment-form-images__uploaded-images-block"><div class="js-comment-images__list comment-form-images__list"></div></div><div class="small-5 text-right comment-form-images__block"><label class="js-comment-images__upload -inline-group inline-block comment-form-images__upload fileapi" data-upload-url="https://www.okraska-sten.ru/putimgsecure?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODAyMTA5ODgsInFzaCI6ImQ2YWQwY2Q3NjZmY2JmYTA0ODZjMzFjNDgzM2RmNTA4NDdhMzc4ZDNkMmMwZjE1YmFmODM4NmFhYjIzNTgyOTAifQ.pOGRNGx8CwlVw9VfXssfhzKmSqJERXt0EvbelJX-UmY" data-file-upload="https://www.okraska-sten.ru/storage/upload/comment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxc2giOiI2Y2RkZDcwMGIzOTU3MDgwNzQ0ZDQ2ZWM5YTc5YzM2MTFmMjQ4ZjAwZWJlMWRiYTNhMDRiMWEyNjJjZjNhNDY2In0.Z42BWHIdOBtQSe0E4BijL7PO13NHy1I2lt8OcUbIowE" style=""><!--?xml version="1.0" encoding="utf-8"?--><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M128 32h512q39.75 0 67.875 28.125t28.125 67.875v512q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-512q0-39.75 28.125-67.875t67.875-28.125zM672 557.25l-160-160-274.75 274.75h402.75q13.25 0 22.625-9.375t9.375-22.625v-82.75zM640 96h-512q-13.25 0-22.625 9.375t-9.375 22.625v512q0 13.25 9.375 22.625t22.625 9.375h18.75l365.25-365.25 160 160v-338.75q0-13.25-9.375-22.625t-22.625-9.375zM256 160q39.75 0 67.875 28.125t28.125 67.875-28.125 67.875-67.875 28.125-67.875-28.125-28.125-67.875 28.125-67.875 67.875-28.125zM256 224q-13.25 0-22.625 9.375t-9.375 22.625 9.375 22.625 22.625 9.375 22.625-9.375 9.375-22.625-9.375-22.625-22.625-9.375z"></path></svg><div class="comment-form-images__block_text">Прикрепить изображение</div><input name="files" type="file" multiple=""></label></div></div>        <div class="row">
+                            <div class="medium-12 large-7 column">
+                    <div id="captcha-element" class="captcha captcha__block">
+                                                                        <div class="small-12 medium-7 column captcha__image_block">
+                            <div id="captcha-img" class="captcha captcha__image row">
+                                <img width="163" height="43" class="inline-block small-10 column" src="data:image/png;base64,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" alt="">
+                                <div id="reload" class="inline-block captcha__reload small-2 column">
+                                    <div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="captcha-input inline-block captcha captcha captcha__submit-field small-12 medium-5 column">
+                            <div class="-relative">
+                                <input id="captcha-id" class="captcha" type="hidden" size="20" value="f105faf089d14cf16c1f129ace8ab0c8" name="captcha[id]">
+                                <input type="text" size="20" placeholder="Введите символы с картинки" value="" id="captcha-input" name="captcha[input]">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        <div class="comment-form__bottom-buttons-block -inline-group text-right  large-5  column"><div class="comment-form__bottom-button-box_cancel"><button class="small-12 cancel btn-site-cancel button button_for_comment-form-cancel" type="reset">Отмена</button></div><div class="comment-form__bottom-button-box_submit"><button class="small-12 btn-site save btn-site-complete  button button_for_comment-form-submit" type="submit">Отправить</button></div></div>        </div>
+    </form>
+</div>
 
 <div class="content-block comments__content" id="comment-show">
                         <div id="comment_wrap" class="site">
