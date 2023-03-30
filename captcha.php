@@ -23,7 +23,7 @@ $text_color = imagecolorallocate($image, 0, 0, 0);
 $font_size = 30;
 $x = 20;
 $y = 40;
-$font_file = 'arial.ttf';
+$font_file = '/fonts/arial.ttf';
 if (file_exists($font_file)) {
     for ($i = 0; $i < $length; $i++) {
         $angle = rand(-10, 10);
