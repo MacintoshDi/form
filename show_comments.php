@@ -122,3 +122,15 @@ echo '</div>';
 </style>
 
 </style>
+<div id="comments-container">
+    <?php
+        $comments = get_comments(0, 5); // Получаем первые 5 комментариев
+        foreach ($comments as $comment) {
+            echo '<div class="comment">';
+            echo '<p><strong>' . $comment['name'] . '</strong></p>';
+            echo '<p>' . $comment['message'] . '</p>';
+            echo '</div>';
+        }
+    ?>
+</div>
+<button id="load-more-comments">Больше комментариев</button>
