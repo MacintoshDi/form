@@ -153,3 +153,23 @@ echo "</code></pre><hr/>";
   print_r($result);
 
 }
+
+// Получаем первые 5 комментариев
+$query = "SELECT * FROM comments LIMIT 5";
+$result = mysqli_query($conn, $query);
+
+// Отображаем комментарии
+while ($row = mysqli_fetch_assoc($result)) {
+    echo "<div class='comment'>";
+    echo "<p><strong>" . $row['name'] . "</strong></p>";
+    echo "<p>" . $row['message'] . "</p>";
+    echo "</div>";
+}
+
+// Если есть больше комментариев, отображаем кнопку "Больше комментариев"
+$count_query = "SELECT COUNT(*) FROM comments";
+$count_result = mysqli_query($conn, $count_query);
+$count_row = mysqli_fetch_row($count_result);
+if ($count_row[0] > 5) {
+    echo "<button id='load-more-comments'>Больше комментариев</button>";
+}
